@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "I Gde Agung Sri Sidhimantra S.Kom., M.Kom."
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  name             : "I Gde Agung Sri Sidhimantra"
+  bio              : "Junior Lecturer at UNESA"
   location         : "Surabaya, Indonesia"
   employer         : "Surabaya State University"
   uri              : # URL
