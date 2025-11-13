@@ -7,20 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Agung**, a lecturer and researcher at the College of Vocational Studies, Universitas Negeri Surabaya (UNESA).  
-My work focuses on advancing Artificial Intelligence in Education through the development of AI-assisted assessment systems, VR/AR learning environments, and multimodal learning analytics.
-
-
+Hi! I am **Agung**, a lecturer and researcher at the College of Vocational Studies, Universitas Negeri Surabaya (UNESA). I obtained master degree in computer science from Institut Teknologi Sepuluh Nopember (ITS) in 2021.
 
 ---
 
 # Research Interests
 
-My research focuses on how Artificial Intelligence can transform the future of education through practical, real-world implementation. I am particularly interested in building **AI-driven automated assessment systems**, which I view as the core foundation of modern learning, enabling scalable, objective, and personalized feedback for students.
+My research focuses on how **Artificial Intelligence** can transform the future of education through practical, real-world implementation. I am particularly interested in building AI-driven automated assessment systems, which I personally believe as the core foundation of modern learning, enabling scalable, objective, and personalized feedback system for students.
 
-I also explore how VR/AR, eye-tracking, and behavioral data can shape **intelligent learning environments** that adapt to each learner’s needs. By integrating immersive technologies and human–computer interaction, my work aims to create more effective, equitable, and data-driven educational ecosystems.
+I also explore how VR/AR, eye-tracking, and behavioral data can shape intelligent learning environments that adapt to each learner’s needs. By integrating immersive technologies and human–computer interaction.
 
-In addition to my work in AI and education, I also conduct research in **sports technology and athlete performance analytics**. UNESA has long established itself as a university with strong foundations in sports science.
+In addition to my work in AI and education, I also conduct research in sports technology and athlete performance analytics. UNESA has long established itself as a university with strong foundations in sports science.
 
 ---
 
