@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "Gde Agung"
 title_separator          : "-"
 name                     : &name "I Gde Agung Sri Sidhimantra."
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "agung.png"
   name             : "I Gde Agung Sri Sidhimantra"
   bio              : "Junior Lecturer at UNESA"
   location         : "Surabaya, Indonesia"
