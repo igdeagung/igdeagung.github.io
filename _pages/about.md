@@ -44,5 +44,5 @@ I welcome collaboration in:
 - Sports Technology & Digital Performance Analysis  
 - Data-driven athlete monitoring and development  
 
-Email: igdesidhimantra@unesa.ac.id
+Email: igdesidhimantra@unesa.ac.id  
 Office: K04-02-05, College of Vocational Studies, UNESA
